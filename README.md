@@ -33,11 +33,12 @@
 
 > Projects are a WIP – deployment & demos coming soon 🔗
 
-| 🚧 Project       | 🧾 Description                                | 🛠 Stack              | ⚙️ Status        | Progress |
-|------------------|-----------------------------------------------|-----------------------|------------------|----------|
-| **BloomBook**    | Online Bookstore UI/UX focused                | MERN + MUI            | 🔨 In Progress   | ▓▓▓░░░░░░░░ 30% |
-| **Code Compiler**| Web-based compiler playground                 | HTML/JS + Java        | 🔧 Building      | ▓░░░░░░░░░░ 10% | 
-| **Job Portal**   | Bold, funky job board like “ApplyHard”        | MERN + Tailwind       | 🛠️ Under Dev     | ▓▓▓▓▓░░░░░░ 50% |
+| 🚧 Project       | 🧾 Description                                  | 🛠 Stack                         | ⚙️ Status        | Progress        |
+|------------------|-------------------------------------------------|----------------------------------|------------------|-----------------|
+| **Apply Hard**   | Job Board - for apply & post jobs online portal | MERN + TS + JWT + Tailwind       | 🔨 In Progress   | ▓▓▓▓▓░░░░░░ 50% |
+| **Bloom Book**   | Online Bookstore UI/UX focused                  | MERN + MUI                       | 🔧 Building      | ▓▓▓░░░░░░░░ 30% |
+| **Evently**      | Event Management App                            | React + Next.js + GraphQL + TS   | 🛠️ Under Dev     | ▓░░░░░░░░░░ 10% | 
+
 
 ---
 
