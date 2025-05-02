@@ -33,7 +33,7 @@
 
 > Projects are a WIP – deployment & demos coming soon 🔗
 
-| 🚧 Project       | 🧾 Description                                  | 🛠 Stack                         | ⚙️ Status        | Progress        |
+| 🚧 Project       | 🧾 Description                          | 🛠 Stack                   | ⚙️ Status        | Progress        |
 |------------------|-------------------------------------------------|----------------------------------|------------------|-----------------|
 | **Apply Hard**   | Job Board - for apply & post jobs online portal | MERN + TS + JWT + Tailwind       | 🔨 In Progress   | ▓▓▓▓▓░░░░░░ 50% |
 | **Bloom Book**   | Online Bookstore UI/UX focused                  | MERN + MUI                       | 🔧 Building      | ▓▓▓░░░░░░░░ 30% |
